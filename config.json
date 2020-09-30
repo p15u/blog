@@ -2,12 +2,12 @@
     "blog": {
         "lang": "en",
         "intl": "en",
-        "author": "Nomi",
-        "title": "Nomi's blog",
+        "author": "P15u",
+        "title": "P15u's blog",
         "description": "Your description...",
         "image": "meta-image",
         "url": "your-domain.com",
-        "profile": "github-or-social-profile",
+        "profile": "https://github.com/p15u",
         "email": "email@domain.com",
         "ga": "UA-XXXXXXXXX-Y"
     },
