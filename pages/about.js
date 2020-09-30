@@ -5,7 +5,7 @@ const About = () => (
         <h1>about</h1>
         <div>
             <p className="center">
-                Write something about you...
+                i'm Sang
             </p>
         </div>
         <style jsx>{`
