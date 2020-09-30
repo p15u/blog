@@ -18,6 +18,13 @@
             "title": "The first post",
             "description": "Test, test and test...",
             "tags": ["markdown", "test"]
+        },
+        {
+            "id": "new-post",
+            "date": "2020-09-30",
+            "title": "The new post",
+            "description": "Test, test and test...",
+            "tags": ["markdown", "test", "new"]
         }
     ]
 }
