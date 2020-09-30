@@ -1,1 +1,5 @@
 ## Hello
+
+```c
+int main();
+```
