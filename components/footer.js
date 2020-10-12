@@ -3,7 +3,7 @@ import { blog } from '../config.json'
 const Footer = () => (
     <footer>
         <p>
-            &copy; {new Date().getFullYear()} {blog.author}'s
+            &copy; {new Date().getFullYear()} {blog.author}
         </p>
         <p>
             <a href="https://ko-fi.com/nomisan" target="_blank" rel="noreferrer">
