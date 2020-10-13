@@ -6,7 +6,9 @@ const About = () => (
         <div>
              <br/>
             <p className="center">
-                Còn Là Sinh viên(newbie) 😢, mới chơi được java, c# vẫn còn non. Đặc thù là thường code Giả Cầy 🐶 .
+                Còn Là Sinh viên(newbie) 😢. <br/>
+                Mới chơi được java, c# vẫn còn non. <br/> 
+                Đặc thù là thường code Giả Cầy 🐶 .
             </p>
             <hr/>             
         </div>
