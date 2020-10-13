@@ -5,7 +5,7 @@ const About = () => (
         <h1>about</h1>
         <div>
             <p className="center">
-                i'm Sang
+                Còn Là Sinh viên(newbie) 😢, mới chơi được java, c# vẫn còn non. Đặc thù là thường code Giả Cầy 🐶 .
             </p>
         </div>
         <style jsx>{`
