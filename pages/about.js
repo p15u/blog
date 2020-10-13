@@ -7,6 +7,7 @@ const About = () => (
             <p className="center">
                 Còn Là Sinh viên(newbie) 😢, mới chơi được java, c# vẫn còn non. Đặc thù là thường code Giả Cầy 🐶 .
             </p>
+            <hr/>             
         </div>
         <style jsx>{`
             .center {
