@@ -15,7 +15,7 @@ class MyDocument extends Document {
         return (
             <Html lang={blog.lang}>
                 <Head>
-                    <link rel="icon" href="./favicon.png"/>
+                    <link rel="icon" href="./favicon.ico"/>
                     <GTag ga={blog.ga} />
                 </Head>
                 <body>
